@@ -1,5 +1,5 @@
 
-Accessible tab groups
+**Accessible tab groups**
 
 This project contains 2 tab groups/panels. Right and left arrows can be used to move between tabs. The tab key can be used to move to a link/section in the tab.
 
