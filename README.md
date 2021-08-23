@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+
+Accessible tab groups
+
+This project contains 2 tab groups/panels. Right and left arrows can be used to move between tabs. The tab key can be used to move to a link/section in the tab.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+"# accessibleTabGroups" 
